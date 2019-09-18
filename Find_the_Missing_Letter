@@ -1,4 +1,6 @@
 /*
+* Problem Statement: 
+*
 * Write a method that takes an array of consecutive (increasing) letters
 * as input and returns the missing letter in the array.
 *
@@ -12,6 +14,8 @@
 * ['O','Q','R','S'] -> 'P'
 *
 * (Use the English alphabet with 26 letters!)
+*
+* Language Used: Java.
 */
 
 public class Kata {
